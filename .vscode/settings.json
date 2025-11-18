@@ -1,0 +1,6 @@
+{
+    "idf.portWin": "COM3",
+    "idf.espIdfPathWin": "C:\\Users\\Administrator\\esp\\v5.5.1\\esp-idf",
+    "idf.toolsPathWin": "c:\\Users\\Administrator\\Desktop\\esp",
+    "idf.pythonInstallPath": "c:\\Users\\Administrator\\Desktop\\esp\\tools\\idf-python\\3.11.2\\python.exe"
+}
